@@ -3,6 +3,7 @@
 Mineplace development is de code production afdeling van
 - mineplace.net
 - prisonmc.nl
+- Mineplace.nl
 
 Mineplace development maakt of heeft software gemaakt voor:
 
